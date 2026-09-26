@@ -1,0 +1,34 @@
+componentName: prototype
+
+welcomeStyleCalamares: true
+welcomeExpandingLogo: true
+
+windowExpanding: normal
+windowSize: 800px,520px
+
+strings:
+    productName:         "Prototype Linux"
+    shortProductName:    "PrototypeLinux"
+    version:              "1.0"
+    shortVersion:         "1.0"
+    versionedName:        "Prototype Linux Alpha"
+    shortVersionedName:   "PrototypeLinux Alpha"
+    bootloaderEntryName:  "PrototypeLinux"
+    productUrl:           "https://prototypelinux.pixelfucker.org"
+    supportUrl:           "https://github.com/Prototype-Linux/distro/issues"
+    knownIssuesUrl:       "https://github.com/Prototype-Linux/distro/issues"
+    releaseNotesUrl:      "https://github.com/Prototype-Linux/releases"
+    donateUrl:            "https://www.lucmsilva.com/donate"
+
+images:
+    productLogo:          "logo.svg"
+    productIcon:          "logo.svg"
+    productWelcome:       "logo.svg"
+
+slideshow: "show.qml"
+
+style:
+   sidebarBackground:        "#2b2e37"
+   sidebarText:              "#ffffff"
+   sidebarTextSelect:        "#3daee9"
+   sidebarTextHighlight:     "#292c37"
